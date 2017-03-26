@@ -1,6 +1,6 @@
 # php
 
-YII GII (Konsole)
+Migration, Model und CRUD erstellen
 ------
 php yii migrate/create create_tbl_website_table
 
